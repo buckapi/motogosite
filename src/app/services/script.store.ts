@@ -4,6 +4,7 @@
     src: string;
 }  
 export const ScriptStore: Scripts[] = [
+    {name: 'jquery', src: './assets/assets/js/jquery-3.6.0.min.js'},
     {name: 'bootstrap', src: './assets/assets/js/bootstrap.min.js'},
     {name: 'slick', src: './assets/assets/js/slick.min.js'},
     {name: 'jquery.magnific-popup', src: './assets/assets/js/jquery.magnific-popup.min.js'},
